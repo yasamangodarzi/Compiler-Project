@@ -35,6 +35,8 @@ Conditional Statements: If-else structures.
 Loops: While and for loops.
 Variable Declarations.
 Function Definitions.
+
+
 ![Screenshot from 2025-03-18 21-59-30](https://github.com/user-attachments/assets/94c0d1d7-427b-4eb8-83f7-c14c582f644c)
 
 ![Screenshot from 2025-03-18 21-59-40](https://github.com/user-attachments/assets/c706b3c7-8c33-4089-b0cf-9e926f4be497)
